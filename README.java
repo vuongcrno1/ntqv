@@ -1,7 +1,9 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello World This is TDTU");
+        Scanner sc = new Scanner(System.in);
+        String ten;
+        System.out.println("Moi ban nhap ten: ");
     }
 
 }
